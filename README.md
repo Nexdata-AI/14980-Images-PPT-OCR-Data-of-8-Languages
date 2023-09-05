@@ -4,7 +4,8 @@
 ## Description
 14,980 Images PPT OCR Data of 8 Languages. This dataset includes 8 languages, multiple scenes, different photographic angles, different photographic distances, different light conditions. For annotation, line-level quadrilateral bounding box annotation and transcription for the texts were annotated in the data. The dataset can be used for tasks such as OCR of multi-language.
 
-For more details, please refer to the link: https://bit.ly/3CaUP9Z
+For more details, please refer to the link: https://www.nexdata.ai/datasets/979?source=Github
+
 
 ## Data size
 14,980 images, 8 languages
